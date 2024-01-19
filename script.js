@@ -16,7 +16,7 @@ let songs=[
     { songName: "Jani heroes Tonight Feat",filePath: "5.mp3", coverPath: "5.jpg"},
     { songName: "Rabb Salem - e - ishq",filePath: "6.mp3", coverPath: "6.jpg"},
     { songName: "Sakhiyaan",filePath: "7.mp3", coverPath: "7.jpg"},
-    { songName: "Bhula Dena",filePath: "8.mp3", coverPath: "8.jpg"},
+    { songName: "Bhula Dena",filePath: "new.mp3", coverPath: "8.jpg"},
     { songName: "Tumhari Kasam",filePath: "9.mp3", coverPath: "9.jpg"},
 ]
 
